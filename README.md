@@ -1,4 +1,4 @@
-# ajioswxld.me
+# ajithropic.me
 
 My portfolio website, built with a custom static site generator.
 
