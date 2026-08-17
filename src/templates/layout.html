@@ -152,16 +152,13 @@
             ></div>
             <span class="ms-1">GitHub</span>
           {% endcall %}
-          {% call button("https://x.com/iStaridium", "w-full sm:w-32 h-9 sm:h-6 me-0", 'target="_blank" rel="noopener noreferrer"') %}
-            <div style="mask-image: url('/assets/x.svg');" class="icon"></div>
-            <span class="ms-1">X</span>
-          {% endcall %}
-          {% call button("https://www.roblox.com/users/96753261/profile", "w-full sm:w-32 h-9 sm:h-6 me-0", 'target="_blank" rel="noopener noreferrer"') %}
+
+          {% call button("https://letterboxd.com/advandrew", "w-full sm:w-32 h-9 sm:h-6 me-0", 'target="_blank" rel="noopener noreferrer"') %}
             <div
-              style="mask-image: url('/assets/roblox.svg');"
+              style="mask-image: url('/assets/letterboxd.svg');"
               class="icon"
             ></div>
-            <span class="ms-1">Roblox</span>
+            <span class="ms-1">Letterboxd</span>
           {% endcall %}
           <button
             type="button"
@@ -176,7 +173,7 @@
       </div>
       {% block content %}{% endblock %}
       <div class="h-3"></div>
-      {% call fieldset("cat README.md") %}
+      {% call fieldset("cat README.md", "border-none") %}
         <div class="flex flex-row justify-between">
           <span class="prose dark:prose-invert">
             Source code on

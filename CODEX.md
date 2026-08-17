@@ -1,4 +1,4 @@
-# Codex Notes - ajioswxld.me
+# Codex Notes - ajithropic.me
 
 Static site generator for personal portfolio using Python (Jinja2, Mistune) and Tailwind CSS.
 
