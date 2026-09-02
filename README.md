@@ -1,6 +1,6 @@
 # ajithropic.me
 
-My portfolio website, built with a custom static site generator. Template from [sagarreddypatil/portfolio-website](https://github.com/sagarreddypatil/portfolio-website).
+My portfolio website, built with a custom static site generator.
 
 ## Dependencies
 
